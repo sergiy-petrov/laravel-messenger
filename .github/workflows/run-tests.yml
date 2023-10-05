@@ -48,11 +48,15 @@ jobs:
           - laravel: 8.*
             php-versions: 7.2
           - laravel: 7.*
+            php-versions: 8.3
+          - laravel: 7.*
             php-versions: 8.2
           - laravel: 7.*
             php-versions: 8.1
           - laravel: 7.*
             php-versions: 8.0
+          - laravel: 6.*
+            php-versions: 8.3
           - laravel: 6.*
             php-versions: 8.2
           - laravel: 6.*
